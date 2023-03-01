@@ -1,11 +1,11 @@
 # Hi there, I'm Wojtek 👋
-## A little about me...
+## 👨 A little about me...
 ![](https://komarev.com/ghpvc/?username=WojciechSutkowski&style=for-the-badge)
 
 I’m **currently looking for a job as frontend developer** after graduating computer science studies. I'm a person who learns new things really quickly. I'm open, honest and helpful teamplayer. Outside of work you can always talk to me about movies, books or sports, especially football.
 
 - 🏠 I live in Tarnów, Lesser Poland
-- 📜 I graduated from Academy of Science in Tarnów
+- 🎓 I graduated from Academy of Science in Tarnów
 - 📬 You can reach me at [LinkedIn](https://www.linkedin.com/in/wojciech-sutkowski/)
 
 ## ⚙️ Some Tool and Tech
