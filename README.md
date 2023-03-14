@@ -7,6 +7,7 @@ I’m **currently looking for a job as frontend developer** after graduating com
 - 🏠 I live in Tarnów, Lesser Poland
 - 🎓 I graduated from Academy of Science in Tarnów
 - 📬 You can reach me at [LinkedIn](https://www.linkedin.com/in/wojciech-sutkowski/)
+- 🌐 Check my [Portfolio page](https://wojciechsutkowski.pl/)
 
 ## ⚙️ Some Tool and Tech
 #### Everyday tools
