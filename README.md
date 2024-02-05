@@ -8,7 +8,6 @@ I’m Wojtek, a front-end developer. My front-end journey started in 2021, and i
 
 ![](https://komarev.com/ghpvc/?username=WojciechSutkowski&style=for-the-badge)
 ## 🔷️ Tech Stack
-#### Everyday tools
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
